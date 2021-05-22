@@ -1,4 +1,4 @@
-package com.digitalinnovationone.citiesapi.entity;
+package com.digitalinnovationone.citiesapi.countries.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
